@@ -18,6 +18,5 @@ class App < Sinatra::Base
     "Goodbye, (person's name)."
   end
  
- end
 
 end
